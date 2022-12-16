@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# React Front End based Authentication
+### Uses Functional Hooks
+### Uses Bootstrap to style
+### Uses Sweetalert Library
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
